@@ -24,3 +24,11 @@ O jogo seleciona aleatoriamente uma palavra do banco de palavras e permite ao jo
 - `src/main/resources` — banco de palavras
 - `pom.xml` — configuração Maven
 - `iniciar_jogo.bat` — inicialização no Windows
+
+## Instalação
+
+1. Clone o repositório.
+
+2. Instale as dependências.
+
+3. Rode a aplicação em "Iniciar_Jogo.bat"
